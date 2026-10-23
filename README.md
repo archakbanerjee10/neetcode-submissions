@@ -81,4 +81,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
