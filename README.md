@@ -86,4 +86,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0182-duplicate-emails](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0183-customers-who-never-order) |
+## Math
+|  |
+| ------- |
+| [2409-count-days-spent-together](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/2409-count-days-spent-together) |
+## String
+|  |
+| ------- |
+| [2409-count-days-spent-together](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/2409-count-days-spent-together) |
 <!---LeetCode Topics End-->
