@@ -76,6 +76,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Bit Manipulation
 |  |
@@ -93,5 +94,10 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [2409-count-days-spent-together](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/2409-count-days-spent-together) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
