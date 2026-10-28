@@ -79,6 +79,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0014-longest-common-prefix](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0027-remove-element) |
 | [0705-design-hashset](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0706-design-hashmap) |
 | [0912-sort-an-array](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0912-sort-an-array) |
 | [1929-concatenation-of-array](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/1929-concatenation-of-array) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -144,16 +145,20 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0706-design-hashmap) |
 ## Linked List
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0706-design-hashmap) |
 ## Design
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
