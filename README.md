@@ -84,10 +84,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0912-sort-an-array](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0912-sort-an-array) |
 | [1929-concatenation-of-array](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/1929-concatenation-of-array) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Database
 |  |
 | ------- |
@@ -102,6 +104,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0014-longest-common-prefix](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [2409-count-days-spent-together](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/2409-count-days-spent-together) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Trie
 |  |
 | ------- |
@@ -114,6 +117,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0912-sort-an-array) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -171,4 +175,20 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
+## Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
