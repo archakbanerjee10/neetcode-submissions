@@ -78,6 +78,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0014-longest-common-prefix](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0027-remove-element) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0705-design-hashset](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0706-design-hashmap) |
@@ -191,4 +192,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
