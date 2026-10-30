@@ -79,6 +79,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0014-longest-common-prefix](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0027-remove-element) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0229-majority-element-ii](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0705-design-hashset](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0706-design-hashmap) |
@@ -122,6 +123,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0912-sort-an-array](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -142,6 +144,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0912-sort-an-array](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0912-sort-an-array) |
 ## Simulation
 |  |
@@ -150,6 +153,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0705-design-hashset](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0706-design-hashmap) |
 ## Linked List
@@ -200,4 +204,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
