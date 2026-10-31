@@ -91,6 +91,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0231-power-of-two) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Database
@@ -101,6 +102,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0231-power-of-two) |
 | [2409-count-days-spent-together](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/2409-count-days-spent-together) |
 ## String
 |  |
@@ -211,4 +213,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0229-majority-element-ii) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
