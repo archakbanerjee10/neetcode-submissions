@@ -78,6 +78,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0014-longest-common-prefix](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0027-remove-element) |
+| [0041-first-missing-positive](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0041-first-missing-positive) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0229-majority-element-ii](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
@@ -156,6 +157,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0041-first-missing-positive) |
 | [0229-majority-element-ii](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0705-design-hashset) |
