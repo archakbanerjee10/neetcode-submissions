@@ -77,6 +77,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0014-longest-common-prefix) |
+| [0018-4sum](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0041-first-missing-positive) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -121,6 +122,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0680-valid-palindrome-ii) |
@@ -133,6 +135,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0912-sort-an-array](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
