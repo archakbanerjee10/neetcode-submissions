@@ -86,6 +86,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0560-subarray-sum-equals-k](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0706-design-hashmap) |
+| [0881-boats-to-save-people](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0912-sort-an-array) |
 | [1929-concatenation-of-array](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/1929-concatenation-of-array) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -127,6 +128,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0061-rotate-list](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0061-rotate-list) |
 | [0344-reverse-string](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/1768-merge-strings-alternately) |
 ## Divide and Conquer
 |  |
@@ -138,6 +140,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0018-4sum](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0229-majority-element-ii) |
+| [0881-boats-to-save-people](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -223,6 +226,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0680-valid-palindrome-ii](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0680-valid-palindrome-ii) |
+| [0881-boats-to-save-people](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0881-boats-to-save-people) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -231,4 +235,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0231-power-of-two) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
