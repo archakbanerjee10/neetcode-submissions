@@ -246,9 +246,14 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Binary Search
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0658-find-k-closest-elements) |
 ## Sliding Window
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0658-find-k-closest-elements) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
