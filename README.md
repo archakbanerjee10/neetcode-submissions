@@ -80,6 +80,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0018-4sum](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0041-first-missing-positive) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0229-majority-element-ii](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
@@ -249,6 +250,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0069-sqrtx) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
