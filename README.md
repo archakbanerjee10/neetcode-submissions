@@ -89,6 +89,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0706-design-hashmap](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0706-design-hashmap) |
 | [0881-boats-to-save-people](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0912-sort-an-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1929-concatenation-of-array](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/1929-concatenation-of-array) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -250,6 +251,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0069-sqrtx](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0069-sqrtx) |
 | [0374-guess-number-higher-or-lower](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0658-find-k-closest-elements) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Sliding Window
 |  |
 | ------- |
