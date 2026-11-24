@@ -84,6 +84,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0229-majority-element-ii](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0410-split-array-largest-sum](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [0705-design-hashset](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0705-design-hashset) |
@@ -207,6 +208,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0410-split-array-largest-sum](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 ## Tree
 |  |
@@ -228,10 +230,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0881-boats-to-save-people) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -252,6 +256,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0069-sqrtx](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/archakbanerjee10/neetcode-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Sliding Window
